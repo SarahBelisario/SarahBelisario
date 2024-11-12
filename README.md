@@ -1,6 +1,6 @@
 - 🤭 Hi, I’m Sarah
 - ✨ I’m interested in learn programming
-- 🌻 I’m currently learning html, css, javascript, Python
+- 🌻 I’m currently learning html, css, javascript, python, C#, PHP
 - 💞️ I’m looking to collaborate on personal projects
 - 💤 You can't find me, because i'm sleeping
 
