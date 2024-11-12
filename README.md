@@ -8,4 +8,4 @@
 <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="xsarahbelisariox" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/xsarahbelisariox?trk=profile-badge">- ✨ My professional profile on linkedin.</a>
 </div>
 
-<a href="https://img.freepik.com/vetores-premium/um-gato-com-um-computador-ao-fundo-e-um-desenho-animado-na-parte-inferior_961307-7873.jpg?w=1480">
+<img src="https://img.freepik.com/vetores-premium/um-gato-com-um-computador-ao-fundo-e-um-desenho-animado-na-parte-inferior_961307-7873.jpg?w=1480" alt="cat" style="width: 200px; height: 200px;">
