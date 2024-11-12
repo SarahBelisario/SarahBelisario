@@ -6,4 +6,4 @@
 
 <br />
 
-<img src="https://2.bp.blogspot.com/-lmeR64fhuBE/UpTbxTTb00I/AAAAAAAAEtM/2UFiEvdK7Tg/s1600/200.gif" width="100%" />
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="xsarahbelisariox" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/xsarahbelisariox?trk=profile-badge">Sarah Belisario</a></div>
