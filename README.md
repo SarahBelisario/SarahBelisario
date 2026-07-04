@@ -1,13 +1,38 @@
-- 🤭 Hi, I’m Sarah
-- ✨ I’m interested in learn programming
-- 🌻 I’m currently learning python, C#, PHP
-- 💞️ I’m looking to collaborate on personal projects
 
-<br />
 
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="xsarahbelisariox" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/xsarahbelisariox?trk=profile-badge">- ✨ My professional profile on linkedin.</a>
-</div>
+# 🌸 Hi, I'm Sarah Belisario!
 
-<br />
+---
 
-<img src="https://img.freepik.com/vetores-premium/um-gato-com-um-computador-ao-fundo-e-um-desenho-animado-na-parte-inferior_961307-7873.jpg?w=1480" alt="cat" style="width: 600px; height: 600px;">
+### 🚀 About Me
+
+A tech enthusiast currently pursuing a Bachelor's degree in **Information Systems**. I am focused on learning software development, building smart solutions, and constantly expanding my knowledge.
+
+- 🎯 **Current focus:** Learning and improving my programming skills.
+- 🤝 **Collaboration:** Open to communication, exchanging experiences, and making new connections.
+
+---
+
+### 🛠️ Technologies and Tools
+
+Here are the languages I've been studying and applying in my code:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
+
+---
+
+### 📬 Connect with Me
+
+Let's exchange ideas and tech experiences! You can find me here:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xsarahbelisariox/)
+
+---
+
+<p align="center">Studying and evolving one line of code at a time. 💻✨</p>
+
+<img width="1776" height="592" alt="banner-sarah" src="https://github.com/user-attachments/assets/4bfb8157-00e4-4a71-95f1-eed6f07074b2" />
+
