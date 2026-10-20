@@ -1,5 +1,3 @@
-
-
 # 🌸 Hi, I'm Sarah Belisario!
 
 ---
@@ -34,5 +32,5 @@ Let's exchange ideas and tech experiences! You can find me here:
 
 <p align="center">Studying and evolving one line of code at a time. 💻✨</p>
 
-<img width="1776" height="592" alt="banner-sarah" src="https://github.com/user-attachments/assets/4bfb8157-00e4-4a71-95f1-eed6f07074b2" />
+<img width="2172" height="724" alt="banner Sarah" src="https://github.com/user-attachments/assets/001fd74a-085e-4c01-9665-9dec33404167" />
 
